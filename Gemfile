@@ -9,10 +9,6 @@ group :development do
 	gem 'sqlite3', '1.3.5'
 end
 
-group :production do
-	gem 'sqlite3', '1.3.5'
-end
-
 
 # Gems used only for assets and not required
 # in production environments by default.
